@@ -4,7 +4,7 @@
 
 I'm front-end developer and Platzi Master Student, passionate about code. I enjoy working with CSS and JavaScript Vanilla, Angular, Node, and Python. 
 
-Skills: HTML / CSS / JS / Angular / SASS  / Python
+Skills: HTML / CSS / JS / Angular / SASS  / Node / Python
 
 - 🔭 I’m currently working on Web Apps using Angular 
 - 🌱 I’m currently learning React 
