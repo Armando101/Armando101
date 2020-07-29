@@ -11,8 +11,9 @@ Skills: HTML / CSS / JS / Angular / SASS  / Node / Python
 - 💬 Ask me about Java Script and Python 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armando101&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armando101&layout=compact)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Armando101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/armando101/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/armandorn101/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/armandorn101)  
-  
+
 
 ![Profile views](https://gpvc.arturio.dev/Armando101)  
