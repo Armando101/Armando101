@@ -8,7 +8,7 @@ Skills: HTML / CSS / JS / Angular / SASS  / Node / Python
 
 - 🔭 I’m currently working on Web Apps using Angular 
 - 🌱 I’m currently learning React 
-- 💬 Ask me about Java Script and Python 
+- 💬 Ask me about JavaScript and Python 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Armando101&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Armando101&layout=compact)
